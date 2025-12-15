@@ -1,7 +1,7 @@
 
 # Abhay Bansal
 ### Full Stack AI Developer
-**Portfolio:** [abhaybansal.in](https://abhaybansal.in/) | **Github:** [github.com/abhaybansal16](https://github.com/abhaybansal16)
+**Portfolio:** [abhaybansal.in](https://abhaybansal.in/) | **Github:** [github.com/abhaybansal16](https://github.com/targter)
 
 ---
 
